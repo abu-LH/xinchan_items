@@ -1,0 +1,23 @@
+{
+  "hash": "043f87bd",
+  "browserHash": "8445af32",
+  "optimized": {
+    "axios": {
+      "src": "../../node_modules/axios/index.js",
+      "file": "axios.js",
+      "fileHash": "ce5023c1",
+      "needsInterop": false
+    },
+    "mitt": {
+      "src": "../../node_modules/mitt/dist/mitt.mjs",
+      "file": "mitt.js",
+      "fileHash": "62004a8b",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-H3GGUTKQ": {
+      "file": "chunk-H3GGUTKQ.js"
+    }
+  }
+}
